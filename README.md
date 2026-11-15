@@ -62,3 +62,14 @@ For individuals and clinicians seeking observational data without $800–$2,500+
 9. *SARS-CoV-2 Spike Protein Amyloid Fibrils Impair Fibrin Formation and Fibrinolysis.* Biochemistry (2025). https://doi.org/10.1021/acs.biochem.5c00550
 10. Biancalana M, Koide S. *Molecular mechanism of Thioflavin-T binding to amyloid fibrils.* BBA (2010). https://doi.org/10.1016/j.bbapap.2010.04.001
 11. Sunde M, et al. *Common core structure of amyloid fibrils by synchrotron X-ray diffraction.* J Mol Biol (1997). https://doi.org/10.1006/jmbi.1997.1348
+
+---
+
+## 5. Cross-Linked Reference Dossiers & Hubs (2026)
+
+- **Google Docs Public Dossier (Amyloid Test & Fibrin Microclots vs. D-Dimer):** https://docs.google.com/document/d/e/2PACX-1vTHNDiQNiXdFQb-bQiU-ohRCrkDcLhKoZ8Vq266atInL_4WNQdUUZ9-zpznB8cqgj3PP5CmLmUUzLOn/pub
+- **Google Docs Public Dossier (Amyloid Fibril Detection Methods):** https://docs.google.com/document/d/e/2PACX-1vTvroG-yupGngpz4TBUBNRB9NGQLpbdUEY9lg1tSTVnnLYIUcOCTRs1d24kUOrmUNKcD59RlNJHPSSf/pub
+- **Google Sites Testing Directory:** https://sites.google.com/view/microclot-testing-guide
+- **GitHub Pages Standalone Mirror:** https://timottowitz.github.io/amyloid-fibril-detection-methods/
+- **GitHub Gist Matrix:** https://gist.github.com/timottowitz/8a1633c7dacec059834211715c5a21cf
+- **YouTube Research Compilation Post:** https://www.youtube.com/post/UgkxF4wSLSywcyxrpNXdRRiqBc71PPj0jfvS
