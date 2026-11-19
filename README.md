@@ -1,6 +1,6 @@
 # Amyloid Fibril & Fibrin Microclot Detection Methods (2026 Reference)
 
-A peer-reviewed technical reference comparing biophysical methods for detecting cross-beta sheet **amyloid fibrils** and **fibrin amyloid microclots** (fibrinaloid microclots), including Thioflavin T (ThT) fluorescence microscopy, Congo red birefringence, electron microscopy, cryo-EM, RT-QuIC seeding assays, and standard coagulation panels (D-dimer).
+A sourced technical reference comparing biophysical methods for detecting cross-beta sheet **amyloid fibrils** and **fibrin amyloid microclots** (fibrinaloid microclots), including Thioflavin T (ThT) fluorescence microscopy, Congo red birefringence, electron microscopy, cryo-EM, RT-QuIC seeding assays, and standard coagulation panels (D-dimer).
 
 > **Full Clinical & Patient Guides:**
 > - [Amyloid Fibrin Test: How Fibrin Amyloid Microclots Are Detected](https://amyloid-test.com/resources/amyloid-fibrin-test/)
@@ -27,7 +27,7 @@ Amyloid is a shared protein fold (**cross-beta sheet** architecture) rather than
 
 ## 2. Amyloid Fibrin Test (ThT Microscopy) vs. D-Dimer
 
-Routine coagulation panels frequently return normal in post-viral and Long COVID cohorts because **D-dimer** and **ThT microclot microscopy** measure opposite sides of clot biology:
+**D-dimer** and **ThT microclot microscopy** measure different things. D-dimer is a validated clinical test; ThT microclot microscopy is a research method with no reference range:
 
 | Test | What It Measures | Primary Clinical Use | Status |
 | :--- | :--- | :--- | :--- |
@@ -40,16 +40,16 @@ Routine coagulation panels frequently return normal in post-viral and Long COVID
 
 ## 3. At-Home Capillary Blood Screening
 
-For individuals and clinicians seeking observational data without $800–$2,500+ clinic travel:
+For individuals and clinicians seeking observational data without travelling to a clinic:
 - **Portal:** [https://amyloid-test.com/](https://amyloid-test.com/)
-- **Cost:** $160 USD (all-inclusive)
-- **Specimen:** Stabilized dried finger-prick capillary blood (ambient postal transit, no phlebotomist or dry ice)
-- **Imaging:** 20× Plan-Apochromat Thioflavin T fluorescence microscopy with 6K 12-bit RAW video sweeps + AI-assisted fibril detection and human review
+- **Cost:** $160 USD
+- **Specimen:** Dried finger-prick blood sample, collected at home and mailed to a partner laboratory in Mexico City. The dried sample has not been validated against the venous platelet-poor-plasma method used in published studies
+- **Imaging:** Thioflavin T fluorescence video microscopy at 20× under blue light, with AI-assisted fibril detection and human review. The report is ready within 3 days of the lab receiving the sample
 - **Scope:** Non-diagnostic observational laboratory data for informational and research use (not an Alzheimer's test, not a systemic amyloidosis biopsy, and not a replacement for emergency D-dimer/imaging).
 
 ---
 
-## 4. Peer-Reviewed References
+## 4. References
 
 1. Pretorius E, Kell DB. *A central role for amyloid fibrin microclots in long COVID/PASC: origins and therapeutic implications.* Biochemical Journal (2022). https://doi.org/10.1042/BCJ20220016
 2. Pretorius E, et al. *Persistent clotting protein pathology in Long COVID/PASC is accompanied by increased levels of antiplasmin.* Cardiovascular Diabetology (2021). https://doi.org/10.1186/s12933-021-01359-7
